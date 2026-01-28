@@ -1,0 +1,40 @@
+Get started
+1. Create a new file: index.html 
+2. Use the Emmet Abbreviation to add the default structure tags
+3. Edit the title: Giraffe Enthusiasts Worldwide
+4. Add a link to the stylesheet
+5. In between the body tags, add a main tag
+6. In between the main tags, add an h1 tag with text:
+Giraffe Enthusiasts Worldwide
+7. Add and h2 tag with text:
+New Giraffe Photos and Discoveries Daily
+8. Add an img tag with source giraffe-head-lily.jpg
+
+Exercise 1
+In style.css, find the comment "Student Styles"
+1. Select the img tag:
+set width to 100%
+set height to auto
+
+Exercise 2 
+1. Replace the <h1> tag with the image logo.png
+2. Add an alt attribute to the logo
+3. Add an alt attribute to the giraffe image
+
+Exercise 3
+1. Give the logo a naming attribute
+2. Select the logo by its naming attribute and resize it
+using a pixel value
+3. Select the body and center the text
+
+Exercise 4
+1. Do an image search or go to unsplash.com or pixabay.com, 
+Find 2 more giraffe pictures
+*Make sure to copy the image description and photographer name
+2. Optimize the images for the web using Tinypng or Image Compressor
+3. Add both images to the page, include the alt attribute in the img tag
+
+Exercise 5 
+1. Create a folder called images
+2. Move all image files into the images folder
+3. Edit the file paths in the image tags 

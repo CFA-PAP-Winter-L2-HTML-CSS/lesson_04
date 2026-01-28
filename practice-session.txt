@@ -1,0 +1,31 @@
+Practice Session
+Improve the Giraffe Enthusiasts site
+Refer to included screenshots for guidance
+
+* Add an alt attribute to all new img tags
+
+Exercise 1
+1. Choose a Google font the for the site and embed it
+Try to choose a font that gets along with the font in the logo
+2. Add a caption under each photograph
+3. Style the caption with smaller, italic text
+
+Exercise 2
+1. Create a new page called voted.html and link it to the same stylesheet
+2. Do an image search for a happy face icon or goofy picture
+3. Add this page content:
+Logo img
+Heading with text: Vote Recorded
+Heading with text: Thank you for voting!
+Happy face icon or goofy picture
+Link back to the home page
+4. Style the words "Vote Recorded" in a different color so they stand out
+
+Exercise 3
+1. Do an image search for 2 icons, like and dislike, or thumbs up and thumbs down
+Try freepik.com
+2. In index.html, under each photo caption, add the 2 voting icon images
+3. Style all the icon images the same size, 
+like any kind of small icon you'd see on a social media site
+3. Wrap an anchor tag around each image and link it to the voted page
+See the slide deck for syntax
