@@ -10,13 +10,15 @@ body {
     line-height: 1.5;
     margin: 0;
     background-color: #6a3c1b;
-    background-image: url('giraffe-bg.jpg');
+    background-image: url('images/giraffe-bg.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
     color: #464a04;
+    text-align: center;
 }
+
 
 p {
     margin: 10px 0 30px 0;
@@ -34,6 +36,16 @@ main {
 }
 
 /* ============= Student Styles ==============*/
+img{
+    width: 100%;
+    height: auto;
+
+}
+#logo{
+     width : 100px; 
+     height: 100px;
+} 
+        
 /* ========= In class ============*/
 
 
@@ -42,3 +54,32 @@ main {
 
 
 /* ======= Practice Session ======*/
+.playwrite-cu-guides-regular {
+  font-family: "Playwrite CU Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bilbo-regular {
+  font-family: "Bilbo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.bilbo-italic {
+  font-family: "Bilbo", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+.resize{
+    height: 30px;
+    width:30px;
+}
+#different-bilbo{
+    color:#6a3c1b;
+}
+.img2{
+    width:100px;
+    height:100px;
+}
+
+
